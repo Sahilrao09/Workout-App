@@ -11,7 +11,7 @@
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbarExercise"
         android:layout_width="match_parent"
-        android:layout_height="?android:attr/actionBarSize"
+        android:layout_height="0dp"
         android:background="#ffffff"
         android:theme="@style/ToolbarTheme"
         app:layout_constraintTop_toTopOf="parent"
